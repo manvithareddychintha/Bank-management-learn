@@ -22,4 +22,4 @@ It allows users to create new bank accounts, deposit and withdraw money, view tr
 - Account holders can edit certain details of their accounts, such as name and phone number.
 
 ### Account Deletion: 
-- Users have the option to close their accounts, and the associated data is removed.
+- Users have the option to close their accounts, and the associated data is removed completely.
